@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xzerohex
-- 👀 I’m interested in Security Research
+- 👀 I’m interested in Blockchain Development and Security Research
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me on twitter [@0xzerohex](https://twitter.com/0xzerohex)
