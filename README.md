@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0xzerohex
-- 👀 I’m interested in Blockchain Development and Security Research
+- 👋 Hi, I’m zerohex
+- 👀 I’m a Blockchain Developer and Security Researcher
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 You can reach me on twitter [@0xzerohex](https://twitter.com/0xzerohex)
+- 📫 You can reach me on X.com [@0xzerohex](https://twitter.com/0xzerohex)
 
 <!---
 0xzerohex/0xzerohex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
